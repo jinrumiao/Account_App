@@ -1,0 +1,4 @@
+pyinstaller --hidden-import=queue -w -F main.py
+
+
+pip3 install -r requirements.txt 
